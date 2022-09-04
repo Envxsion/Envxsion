@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on expanding my portfolio by creating new projects and experimenting all sorts of interesting tech<br>🤝 I’m looking for help with Project Management, High Level Programming, AI<br>🌱 I’m currently learning Python, Unreal, Java, Web Dev and Data Science<br>⚡ Love collaborating and meeting new people with similar interests 
+🔭 I’m currently working on expanding my portfolio by creating new projects and experimenting with all sorts of interesting tech<br>🤝 I’m looking for help with Project Management, High Level Programming, AI/ML<br>🌱 I’m currently learning Python, Unreal, Java, Web Dev and Data Science<br>⚡ Love meeting and collaborating with new people who have similar interests.
 
 
 # 💻 Tech Stack:
