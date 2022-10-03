@@ -11,14 +11,14 @@
 
 # 📊 CTF Participation Statistics:
 ## 2021:
-![2021Cert](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/68f67d75-254a-4389-8cfe-dcd51845826b/ductf-certificate-2021-Bits-N-Bytes.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221003%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221003T223126Z&X-Amz-Expires=86400&X-Amz-Signature=acd37b6dc142c26831669b85fd4f41134506d6eda6df44616f90ded184ffeb75&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D"ductf-certificate-2021-Bits-N%27-Bytes.jpg"&x-id=GetObject)
-![2021Rank](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f74c4425-a28a-490e-8713-b7ae68602916/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221003%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221003T223408Z&X-Amz-Expires=86400&X-Amz-Signature=2699b0c340b77276a60a7575ac3b126ea20918ec90aef3fc84e236a976b3ee0b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D"Untitled.png"&x-id=GetObject)
+![2021Cert]()
+![2021Rank]()
 Placed 4th in the "High School only" category (Team Members: Cheeks, ScriptOverride, Foggy and Envxsion) 🦾 🚩<br />
 https://github.com/DownUnderCTF/Challenges_2021_Public <br />
 
 ## 2022:
-![2022Cert](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ca28d6c5-f7ba-451b-91f8-90f6cbb47cd5/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220925%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220925T095517Z&X-Amz-Expires=86400&X-Amz-Signature=72ea903a1a2a7be74bc6e815425c3526d51504aaeb8cc647db51bd2861f950b3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D"Untitled.png"&x-id=GetObject)
-![2022Rank](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bf654f88-ccc8-4de3-9a3c-dc44d5f64101/2022%21.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220925%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220925T095534Z&X-Amz-Expires=86400&X-Amz-Signature=a2e899cfcdd060f71e703856c7d27ee7f7c08336923120f97d4c27ffbcfee69e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D"2022%21.png"&x-id=GetObject](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bf654f88-ccc8-4de3-9a3c-dc44d5f64101/2022%21.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221003%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221003T223517Z&X-Amz-Expires=86400&X-Amz-Signature=d899fa2e611b3f5061418212add72bed49ca737b2e00284d69a5066d627d1519&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D"2022%21.png"&x-id=GetObject)
+![2022Cert]()
+![2022Rank]()
 Placed 5th in the "High School only" category (Team Members: Envxsion) 🦾 🚩<br/>
 Placed 18th in the "High school and Teritary Students" category 🦾 🚩<br />
 https://github.com/DownUnderCTF/Challenges_2022_Public <br />
