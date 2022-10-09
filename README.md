@@ -12,13 +12,13 @@
 # 📊 CTF Participation Statistics:
 ## 2021:
 ![2021Cert](ductf-certificate-2021-Bits-N'-Bytes.jpg)
-![2021Rank]()
+![2021Rank](1.png)
 Placed 4th in the "High School only" category (Team Members: Cheeks, ScriptOverride, Foggy and Envxsion) 🦾 🚩<br />
 https://github.com/DownUnderCTF/Challenges_2021_Public <br />
 
 ## 2022:
-![2022Cert]()
-![2022Rank]()
+![2022Cert](2.png)
+![2022Rank](2022!.png)
 Placed 5th in the "High School only" category (Team Members: Envxsion) 🦾 🚩<br/>
 Placed 18th in the "High school and Teritary Students" category 🦾 🚩<br />
 https://github.com/DownUnderCTF/Challenges_2022_Public <br />
