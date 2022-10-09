@@ -11,7 +11,7 @@
 
 # 📊 CTF Participation Statistics:
 ## 2021:
-![2021Cert](https://drive.google.com/file/d/1hzSl7Fy9QYDJGgWhWwCpdm4R2hhKn-sa/view?usp=sharing)
+![2021Cert]()
 ![2021Rank]()
 Placed 4th in the "High School only" category (Team Members: Cheeks, ScriptOverride, Foggy and Envxsion) 🦾 🚩<br />
 https://github.com/DownUnderCTF/Challenges_2021_Public <br />
