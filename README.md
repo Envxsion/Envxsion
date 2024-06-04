@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on expanding my portfolio by experimenting with all sorts of interesting technologies<br>🤝 I’m looking for help with Project Management, Cyber Security, AI/ML<br>🌱 I’m currently learning Python, Java, Web Dev, Data Science and Cyber Security<br>⚡ Love meeting and collaborating with new people who share similar interests
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jaini&size=29&duration=1900&pause=1100&color=00F779&random=false&width=600&height=80&lines=Hey!+Envxsion+here+o%2F;env%3A+Honing+Abilities+2+Counteract+Known+%26+Emerging+Risks;env%3A+de_ciding+on+which+site+to+rush;%25blow%3A+No+such+job.;The+quieter+you+become%2C+the+more+you+are+able+to+hear;env%3A+Exiting+Vim..+%5BE%5D%5BQ%5D%5BX%5D%60%5E%5B%5D%5Ex%5Ec%5Ex;If+at+first+you+don't+succeed%2C+call+it+V1.0;env%3A+task+failed+successfully+%3A%3F)](https://git.io/typing-svg)
 
 [![](https://visitcount.itsvg.in/api?id=Envxsion&icon=5&color=8)](https://visitcount.itsvg.in)
 
