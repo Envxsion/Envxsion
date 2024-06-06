@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Envxsion&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Envxsion&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=Envxsion)
 
 ---
 
